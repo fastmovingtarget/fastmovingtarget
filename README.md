@@ -1,7 +1,7 @@
 ## Hello and Welcome 
 
 - My name is James, although on GitHub I use the handle fastmovingtarget.
-- I'm a software developer (currently looking for work, much like what feels like half the industry right now).
+- I'm a software developer currently specialising in Full Stack Development.
 
 ### Skillset
   - Front-end and back-end web development
